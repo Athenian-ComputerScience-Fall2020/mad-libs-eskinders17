@@ -2,7 +2,7 @@
 #
 name = input("Enter your name: ")
 town = input("Enter a name of a town: ")
-feeling = input("Enter how your feeling now. Happy, sad or bored: ")
+feeling = input("Enter how are you feeling now. Happy, sad or bored: ")
 trip = input("Enter a place you want to visit: ")
 friend = input("Enter the name of your friend: ")
 weeks = input("Enter a number: ")
