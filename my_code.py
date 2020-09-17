@@ -1,3 +1,16 @@
 # Collaborators (including web sites where you got help: (enter none if you didn't need help)
-#  
-
+#
+name = input("Enter your name: ")
+town = input("Enter a name of a town: ")
+feeling = input("Enter how are you feeling now. Happy, sad or bored: ")
+trip = input("Enter a place you want to visit: ")
+friend = input("Enter the name of your friend: ")
+weeks = input("Enter a number: ")
+birthday = input("When is your birthday: ")
+cake = input("What is your favorite cake flavour: ")
+print("Once upon a time a kid named " + name + " lived in a town called " + town + "." ) 
+print("He/she was very " + feeling + " So he/she planned a trip to " + trip + "," + " He/she invited his/her beloved friend " + friend )
+print(friend + " and " + name + " enjoyed this trip together for the next " + weeks + " weeks.")
+print("After " + name + " got back home on " + birthday + ". " + friend + " and other friends throwed him/her a suprise party.")
+print("They baked him his/her favourite " + cake + " cake. " + "After they finished eating, " + name + " told everyone about his/her trip to " + trip + ".")
+print("Everone had a good time, that " + birthday + " was a day to remember.") 
